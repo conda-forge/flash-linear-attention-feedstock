@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.5.0"
+  version: "0.5.1"
 
 package:
   name: flash-linear-attention
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/f/flash-linear-attention/flash_linear_attention-${{ version }}.tar.gz
-  sha256: 22b789a47f07738b4382ecdf775d7bb40e0d803c467c34f8e2ecd6a1dc780938
+  sha256: 8840fd4c37de8b0612dc8fd493867f3d330672ba2f17c024a2ce37239634e247
 
 build:
   number: 0
